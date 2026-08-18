@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Viquar Ahemad 👋
 
-<!--
-**vaquar-shaikh/vaquar-shaikh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Senior .NET Developer | C# | ASP.NET Core | Web API | SQL Server | Umbraco
 
-Here are some ideas to get you started:
+I am a software developer with 8+ years of experience building web applications, REST APIs and enterprise solutions using Microsoft technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technologies
+
+- C#
+- .NET / ASP.NET Core
+- Web API
+- ASP.NET WebForms
+- SQL Server
+- Entity Framework Core
+- Umbraco CMS & Headless APIs
+- REST APIs
+- Git
+  
+
+### 🚀 Featured Projects
+
+Coming soon...
+
+### 📫 Connect With Me
+
+- LinkedIn 
+- GitHub
